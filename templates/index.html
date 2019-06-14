@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Celery Flask Application</title>
+</head>
+<body>
+  <h1>Greetings from Scalingo</h1>
+  
+  <h2> Celery returned: {{ celery.result }} </h2>
+  
+
+  <form method="GET" action="/">
+    <label for="name"> Enter your name : </label>
+    <input type="text" name="name"/>
+    <input type="submit"/>
+  </form>
+</body>
+</html>
+
