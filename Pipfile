@@ -8,11 +8,13 @@ pylint = "*"
 redis = "*"
 celery = "*"
 flask = "*"
+python-dotenv = "*"
 
 [packages]
 flask = "*"
 redis = "*"
 celery = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"

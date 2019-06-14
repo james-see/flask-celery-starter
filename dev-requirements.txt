@@ -13,6 +13,7 @@ lazy-object-proxy==1.4.1
 markupsafe==1.1.1
 mccabe==0.6.1
 pylint==2.3.1
+python-dotenv==0.10.3
 pytz==2019.1
 redis==3.2.1
 six==1.12.0
