@@ -4,7 +4,7 @@ astroid==2.2.5
 billiard==3.6.0.0
 celery==4.3.0
 click==7.0
-flask==1.0.3
+flask==2.2.5
 isort==4.3.20
 itsdangerous==1.1.0
 jinja2==2.10.1
